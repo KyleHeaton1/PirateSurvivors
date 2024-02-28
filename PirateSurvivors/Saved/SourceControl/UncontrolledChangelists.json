@@ -333,7 +333,11 @@
 				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
 				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
 				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset",
-				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset"
+				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
+				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/TopDown/Blueprints/BP_Enemy.uasset",
+				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/IP/N3LO13F30L9UFU9VE26HGM.uasset",
+				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/Kyle/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_RED.uasset",
+				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/Kyle/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_RED2.uasset"
 			]
 		}
 	]
