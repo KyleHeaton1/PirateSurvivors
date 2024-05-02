@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alyss/OneDrive/Documents/1 -UNI/PirateSurvivors/PirateSurvivors/Content/Models/Props/barrel/Barrel.uasset",
+				"C:/Users/alyss/OneDrive/Documents/1 -UNI/PirateSurvivors/PirateSurvivors/Content/Models/Props/Barrel.uasset",
+				"C:/Users/alyss/OneDrive/Documents/1 -UNI/PirateSurvivors/PirateSurvivors/Content/Models/Props/Bottle_1.uasset",
+				"C:/Users/alyss/OneDrive/Documents/1 -UNI/PirateSurvivors/PirateSurvivors/Content/Models/Props/Bottle_2.uasset",
+				"C:/Users/alyss/OneDrive/Documents/1 -UNI/PirateSurvivors/PirateSurvivors/Content/Models/Props/ChestClosed.uasset",
+				"C:/Users/alyss/OneDrive/Documents/1 -UNI/PirateSurvivors/PirateSurvivors/Content/Models/Props/ChestOpen.uasset",
 				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/TopDown/Input/Actions/IA_Move.uasset",
 				"D:/Repos/PirateSurvivors/PirateSurvivors/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
